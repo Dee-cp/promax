@@ -7,7 +7,7 @@
     },
     "domain_name": "YourBrand.com",
     "colors": {
-        "primary": "#472a00",
+        "primary": "#3B82F6",
         "secondary": "#64748b",
         "tertiary": "#8b5cf6",
         "success": "#10b981",
@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "Promax ",
+        "name": "promax",
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
